@@ -1,3 +1,0 @@
-gcc parametrica.c -o cod -lm  
-
--lm adiciona a biblioteca math.h
